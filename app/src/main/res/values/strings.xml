@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Class Eleven</string>
+    <string name="titel">Alert Title </string>
+    <string name="msg">Do you want to exit ? </string>
+
+
+</resources>
